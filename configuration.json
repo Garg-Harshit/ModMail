@@ -1,0 +1,40 @@
+{
+    "token": "",
+    "prefix": "&",
+    "owners": [
+        701737362161401876
+    ],
+    "Welcome Words": [
+        "Hi",
+        "HI",
+        "Hii",
+        "Hi!",
+        "hi",
+        "hii",
+        "hi!",
+        "HII",
+        "Hello",
+        "Hemlo",
+        "hello",
+        "hemlo",
+        "HELLO",
+        "hey",
+        "HEY",
+        "Hey",
+        "Hey there",
+        "hey there",
+        "HEY THERE",
+        "Hiii bhiiiiiii",
+        "hiii",
+        "Hiii",
+        "Hiii Bhiiiiiii",
+        "hiii bhiiiiiii",
+        "hiii Bhiiiiiii",
+        "Namaste",
+        "namaste",
+        "Vadakam",
+        "vadakam"
+    ],
+    "DM Welcome Message": "Thank You for your Query.\nOur Team will Shed Light upon it within a Short Time from Now.\nWe Appreciate your Patience.",
+    "DM By Message": "Hope You Liked Our Response!\nFeel Free to Contact Us For any Further Queries.\nThis Query Will be Closed Now."
+}
